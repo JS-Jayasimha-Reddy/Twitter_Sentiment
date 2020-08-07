@@ -1,8 +1,9 @@
 # *Twitter Sentiment*
-> Predicting the nature of the tweets and labelling them as "Positive" or "Negative"
+> App that predicts the nature of the tweets and label them as "Positive" or "Negative"
 
 ## Table of contents
 * [General info](#general-info)
+* [Model Building](#model-building)
 * [Screenshots](#screenshots)
 * [Technologies Used](#technologies)
 * [Setup](#setup)
@@ -10,10 +11,13 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This app determines if a Tweet/sentence is positive or negative/hate speech.Though any general sentence can be used,the title is named "Twitter Sentiment" as the model is 
+trained on the tweets from twitter.Hence,the sentiment could be a little biased on how it is perceived on twitter.
+
+## Model building
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+
 
 ## Technologies Used
 * Tech 1 - version 1.0
