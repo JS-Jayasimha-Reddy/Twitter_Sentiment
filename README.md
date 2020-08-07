@@ -4,7 +4,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Model lifecycle](#model-lifecycle)
-* [Screenshots](#screenshots)
+* [Screenshots of app](#screenshots-of-app)
+* [Screenshots of code](#screenshots-of-code)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Features](#features)
@@ -24,10 +25,9 @@ The Standard datascience lifecycle was followed for building this model.
 6. **Evaluation**- Used AUC plot and AUC score of test and train data to determine the effectiveness of the model.This was double checked by a confusion matrix
 7. **Deployment**- Model was deployed using Streamlit and on AWS server --Click [HERE](http://18.191.219.195:8501) for the demo
 
-## Screenshots
-![]()
-![]()
+## Screenshots of app
 
+## Screenshots of code
 
 ## Technologies Used
 * Tech 1 - version 1.0
