@@ -2,7 +2,7 @@
 > Predicting the nature of the tweets and labelling them as "Positive" or "Negative"
 
 ## Table of contents
-* [General info]
+* [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies Used](#technologies)
 * [Setup](#setup)
