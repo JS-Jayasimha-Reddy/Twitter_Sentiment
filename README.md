@@ -35,8 +35,10 @@ The Standard datascience lifecycle was followed for building this model.
 ## Screenshots of code
 #### 1.
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note1.PNG" >
+
 #### 2.
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note3.PNG" >
+
 #### 3.
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note2.PNG" >
 
