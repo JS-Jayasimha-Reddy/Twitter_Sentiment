@@ -17,7 +17,7 @@ trained on the tweets from twitter.Hence,the sentiment could be a little biased 
 ## Model Lifecycle
 The Standard datascience lifecycle was followed for building this model.
 1. **Business understanding**- The objective is to determine if a tweet is positive or negative
-2. **Data collection**- Dataset acquired from [Kaggle](https://www.kaggle.com/kazanova/sentiment140),the original dataset of 1.6 million tweets were reducedto random 50000 tweets due to computing limitations
+2. **Data collection**- Dataset acquired from [Kaggle](https://www.kaggle.com/kazanova/sentiment140),the original dataset of 1.6 million tweets were reduced to a random sample of 50000 tweets due to computing limitations
 3. **Data preprocessing/Preparation**- Several steps were performed to clean the data like removing dublicates, punctuations,stop words etc
 4. **EDA**- Used plots like Word cloud to understand more about the data
 5. **Modelling**- Used Naive bayes model with Hyperparameter tuning and roc-auc as the metric
@@ -25,7 +25,6 @@ The Standard datascience lifecycle was followed for building this model.
 7. **Deployment**- Model was deployed using Streamlit and on AWS server --Click [HERE](http://18.191.219.195:8501) for the demo
 
 ## Screenshots
-
 
 ## Technologies Used
 * Tech 1 - version 1.0
