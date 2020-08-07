@@ -43,12 +43,9 @@ The Standard datascience lifecycle was followed for building this model.
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note2.PNG" >
 
 
-
-
 ## Technologies Used
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+
+
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
