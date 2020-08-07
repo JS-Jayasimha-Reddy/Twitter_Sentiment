@@ -25,10 +25,11 @@ The Standard datascience lifecycle was followed for building this model.
 7. **Deployment**- Model was deployed using Streamlit and on AWS server --Click [HERE](http://18.191.219.195:8501) for the demo
 
 ## Screenshots of app
+1. 
 <kbd>
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet2.PNG">
 </kbd>
-
+2. 
 <kbd>
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet1.PNG">
 </kbd>
