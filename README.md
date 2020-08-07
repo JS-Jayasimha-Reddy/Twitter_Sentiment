@@ -44,7 +44,7 @@ The Standard datascience lifecycle was followed for building this model.
 
 <p float="left">
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/anaconda.jpg" width="200" height='150' />
-  <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/python.png" width="150" /> 
+  <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/python.png" width="100" height="100" /> 
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/aws.png" width="150" /> 
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/sklearn.jpg" width="150" /> 
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/streamlit.png" width="150" /> 
