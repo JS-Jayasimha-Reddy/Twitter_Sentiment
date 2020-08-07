@@ -39,4 +39,4 @@ List of features ready and TODOs for future development
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+
