@@ -7,8 +7,6 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -39,4 +37,3 @@ List of features ready and TODOs for future development
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Contact
-
