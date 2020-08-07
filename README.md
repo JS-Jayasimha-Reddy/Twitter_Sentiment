@@ -26,7 +26,8 @@ The Standard datascience lifecycle was followed for building this model.
 
 ## Screenshots
 **snap of the app**
-![](https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note1.PNG)
+![]()
+
 ## Technologies Used
 * Tech 1 - version 1.0
 * Tech 2 - version 2.0
