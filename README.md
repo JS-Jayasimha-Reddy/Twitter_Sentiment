@@ -16,7 +16,9 @@ trained on the tweets from twitter.Hence,the sentiment could be a little biased 
 
 ## Model Lifecycle
 The Standard datascience lifecycle was followed for building this model.
+
 1.Business understanding-The objective was clearly stated as the dataset was acquired from kaggle
+
 2.
 
 ## Screenshots
