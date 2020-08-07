@@ -3,9 +3,9 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Model Building](#model-building)
+* [Model Building](#model-lifecycle)
 * [Screenshots](#screenshots)
-* [Technologies Used](#technologies)
+* [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Features](#features)
 * [Contact](#contact)
@@ -14,7 +14,10 @@
 This app determines if a Tweet/sentence is positive or negative/hate speech.Though any general sentence can be used,the title is named "Twitter Sentiment" as the model is 
 trained on the tweets from twitter.Hence,the sentiment could be a little biased on how it is perceived on twitter.
 
-## Model building
+## Model Lifecycle
+The Standard datascience lifecycle was followed for building this model.
+1.Business understanding-The objective was clearly stated as the dataset was acquired from kaggle
+2.
 
 ## Screenshots
 
@@ -26,10 +29,6 @@ trained on the tweets from twitter.Hence,the sentiment could be a little biased 
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
 
 ## Features
 List of features ready and TODOs for future development
