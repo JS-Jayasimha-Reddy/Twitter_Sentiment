@@ -8,7 +8,6 @@
 * [Screenshots of code](#screenshots-of-code)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Features](#features)
 * [Contact](#contact)
 
 ## General info
@@ -36,12 +35,6 @@ The Standard datascience lifecycle was followed for building this model.
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
 
 ## Future Scope
 Project is: _in progress_, _finished_, _no longer continue_ and why?
