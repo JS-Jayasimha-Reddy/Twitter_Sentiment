@@ -25,6 +25,7 @@ The Standard datascience lifecycle was followed for building this model.
 7. **Deployment**- Model was deployed using Streamlit and on AWS server --Click [HERE](http://18.191.219.195:8501) for the demo
 
 ## Screenshots of app
+< img src=
 
 ## Screenshots of code
 
