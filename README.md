@@ -11,8 +11,8 @@
 * [Contact](#contact)
 
 ## General info
-This app determines if a Tweet/sentence is positive or negative/hate speech.Though any general sentence can be used,the title is named "Twitter Sentiment" as the model is 
-trained on the tweets from twitter.Hence,the sentiment could be a little biased on how it is perceived on twitter.
+This app determines if a Tweet/sentence is positive or negative/hate speech. Though any general sentence can be used,the title is named "Twitter Sentiment" as the model is 
+trained on the tweets from twitter. Hence,the sentiment could be a little biased on how it is perceived on twitter platform.
 
 ## Model Lifecycle
 The Standard datascience lifecycle was followed for building this model.
