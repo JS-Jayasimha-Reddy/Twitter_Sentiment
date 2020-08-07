@@ -34,6 +34,8 @@ The Standard datascience lifecycle was followed for building this model.
 </kbd>
 
 ## Screenshots of code
+<img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet1.PNG">
+
 
 ## Technologies Used
 * Tech 1 - version 1.0
