@@ -8,6 +8,7 @@
 * [Screenshots of code](#screenshots-of-code)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
+* [Sources](#sources)
 * [Contact](#contact)
 
 ## General info
@@ -33,10 +34,7 @@ The Standard datascience lifecycle was followed for building this model.
 
 
 ## Screenshots of code
-#### 1.
-<img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note1.PNG" >
 
-#### 2.
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note3.PNG" >
 
 
@@ -51,11 +49,20 @@ The Standard datascience lifecycle was followed for building this model.
 </p>
 
 
-
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+- Clone the repository 
+- All of the code is written on [Jupyter notebook](https://www.anaconda.com/products/individual) 
+- Run the requirements.txt file on the command propmt using -**pip install -r requirements.txt** to install the necessary libraries
+- The model can be deployed on an AWS server using EC2 instance 
 
 ## Future Scope
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+- Further changes are planned to performance and accuracy by using Deep Learning techniques 
+
+## Sources
+Most of the code is self written. Some are inspired and if code snippets are directly used , respective url's are given. Sources include :
+- [Applied AI](https://www.appliedaicourse.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Medium](https://medium.com/)
 
 ## Contact
+- If there any difficulties in running the code or suggestions on imporvements , please email me at : jayasimhaarya@gmail.com
