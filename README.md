@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Model lifecycle](#model-lifecycle)
 * [Screenshots of app](#screenshots-of-app)
-* [sample code](#sample code)
+* [Code sample](#code-sample)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Sources](#sources)
@@ -33,7 +33,7 @@ The Standard datascience lifecycle was followed for building this model.
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet1.PNG">
 
 
-## Sample code
+## Code sample
 
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note3.PNG" >
 
