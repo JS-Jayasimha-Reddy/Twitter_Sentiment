@@ -59,7 +59,8 @@ The Standard datascience lifecycle was followed for building this model.
 - Further changes are planned to improve performance and accuracy by using Deep Learning techniques 
 
 ## Sources
-Most of the code is self written. Some are inspired and if code snippets are directly used , respective url's are given. Sources include :
+Most of the code is self written. Some are inspired from various sources and if a code snippet is directly used , respective url is given. 
+Sources include :
 - [Applied AI](https://www.appliedaicourse.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Medium](https://medium.com/)
