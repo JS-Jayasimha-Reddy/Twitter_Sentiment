@@ -56,7 +56,7 @@ The Standard datascience lifecycle was followed for building this model.
 - The model can be deployed on an AWS server using EC2 instance 
 
 ## Future Scope
-- Further changes are planned to performance and accuracy by using Deep Learning techniques 
+- Further changes are planned to improve performance and accuracy by using Deep Learning techniques 
 
 ## Sources
 Most of the code is self written. Some are inspired and if code snippets are directly used , respective url's are given. Sources include :
