@@ -35,8 +35,11 @@ The Standard datascience lifecycle was followed for building this model.
 
 ## Code sample
 
-<img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note3.PNG" >
+[Click here to view notebook](https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/twitter.ipynb)
 
+<kbd>
+<img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note3.PNG" >
+</kbd>
 
 ## Technologies Used
 
