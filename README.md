@@ -27,11 +27,15 @@ The Standard datascience lifecycle was followed for building this model.
 
 ## Screenshots of app
 #### 1.
+
+<kbd>
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet2.PNG">
+</kbd>
 
 #### 2.
+<kbd>
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/tweet1.PNG">
-
+</kbd>
 
 ## Code sample
 
