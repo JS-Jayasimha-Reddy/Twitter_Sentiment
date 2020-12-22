@@ -23,8 +23,6 @@ The Standard datascience lifecycle was followed for building this model.
 4. **EDA**- Used plots like Word cloud to understand more about the data
 5. **Modelling**- Used Naive bayes model with Hyperparameter tuning and roc-auc as the metric
 6. **Evaluation**- Used AUC plot and AUC score of test and train data to determine the effectiveness of the model.This was double checked by a confusion matrix
-7. **Deployment**- Model was deployed using Streamlit and on AWS server --Click [HERE](http://18.191.219.195:8501) for the demo
-
 
 
 ## Code sample
@@ -40,9 +38,9 @@ The Standard datascience lifecycle was followed for building this model.
 <p float="left">
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/anaconda.jpg" width="200" height='150' />
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/python.png" width="100" height="100" /> 
-  <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/aws.png" width="150" /> 
+
   <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/sklearn.jpg" width="150" /> 
-  <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/streamlit.png" width="150" /> 
+
 </p>
 
 
