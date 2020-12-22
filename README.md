@@ -4,7 +4,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Model lifecycle](#model-lifecycle)
-* [Screenshots of app](#screenshots-of-app)
 * [Code sample](#code-sample)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
