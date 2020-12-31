@@ -2,7 +2,7 @@
 import streamlit as st
 import joblib
 import re
-import plotly.graph_objects as go
+from plotly import graph_objs as go
 
 
 
