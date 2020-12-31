@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Model lifecycle](#model-lifecycle)
 * [Code sample](#code-sample)
+* [Link to App](#Link-to-App)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
 * [Sources](#sources)
@@ -31,6 +32,9 @@ The Standard datascience lifecycle was followed for building this model.
 <kbd>
 <img src="https://github.com/JS-Jayasimha-Reddy/twitter_sentiment/blob/master/Images/note3.PNG" >
 </kbd>
+
+## Link to APP
+[Click here to open App](http://3.134.98.32:8501/)
 
 ## Technologies Used
 
