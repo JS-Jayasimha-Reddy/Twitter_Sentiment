@@ -1,5 +1,5 @@
 # *Twitter Sentiment*
-> App that predicts the nature of the tweets and label them as "Positive" or "Negative"
+> predicting the nature of the tweets and label them as "Positive" or "Negative"
 
 ## Table of contents
 * [General info](#general-info)
